@@ -12,7 +12,7 @@ The CONTEST dataset wants to provide multiple data streams to test <b>collaborat
 The CONTEST dataset is joint work bewtween the University of Florence (Italy), The Ohio State University (USA) and Bruno Kessler Foundation - FBK (Italy).
 _________________________________________________________________________
 
-In the following table, the collected and share data are listed. 
+In the following table, the collected and share data are listed (TO BE COMPLETED). 
 
 
 |  Static Infrastructure | Sensor  |  Collected Data | Shared Data |
