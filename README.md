@@ -8,3 +8,13 @@ But, despite developments in hardware technologies and Radio-Frequency (RF) sign
 Therefore, alternative positioning approaches were studied, including collaborative navigation, where platforms navigating in close vicinity can share position and navigation information (vehicle-to-infrastructure - V2I and vehicle-to-vehicle - V2V communications) and a joint navigation solution can potentially provide better results for all platforms with respect to individual ones.
 
 The CONTEST dataset wants to provide multiple data streams to test <b>collaborative positioning</b> approaches, involving both terrestrial and aerial platforms, and using several sensors, such as Ultra-Wide Band (UWB) transceivers, cameras, LiDARs, GNSS.
+
+
+
+
+|  Static Infrastructure | Sensor  |  Collected Data | Shared Data |
+|---|---|---|---|
+|  | 12 UWB Pozyx  |  - | <a href="https://eostore.itc.utwente.nl:5001/sharing/1gJRLdQ71"></a>reference positions|
+|  | LiDAR: Velodyne VLP16 | raw profiles | <a href="https://eostore.itc.utwente.nl:5001/sharing/c4LlTkVjT"></a>raw profiles with timestamp|
+
+
