@@ -36,24 +36,25 @@ In the following table, the collected and share data are listed (TO BE COMPLETED
 | CAR0 | GNSS: Leica GS25, Septentrio PolRx5 | positions     | reference trajectory from GNSS and IMU integration and correction |
 | CAR0 | IMU: Honeywell H764G                | inertial info | reference trajectory from GNSS and IMU integration and correction |
 | CAR0 | LiDAR Velodyne VLP16                | raw profiles  | raw profiles with timestamp                                       |
-
 | CAR1 | UWB: Pozyx                             | ranges        | ranges wrt static and moving agents                               |
 | CAR1 | GNSS: Topcon Hyper VR, Novatel PwrPak7 | positions     | reference trajectory from GNSS and IMU integration and correction |
 | CAR1 | IMU: SPAN-IGM-S1                       | inertial info | reference trajectory from GNSS and IMU integration and correction |
 | CAR1 | LiDAR Velodyne VLP16                   | raw profiles  | raw profiles with timestamp                                       |
 | CAR1 | Camera: Sony Alpha 6000                | video         | video                                                             |
-
-
-
-
-| CAR0 | Camera: Sony Alpha 6000             | video         | ranges wrt static and moving agents <br> reference trajectory from GNSS and IMU integration and correction <br> raw profiles with timestamp <br> video |
-| CAR1 - Honda CRV | | | |
-| CAR2 - Honda Pilot | | | |
-| CAR3 - CyberCar | | | |
-| Pedestrian1 | | | |
-| Pedestrian2 | | | |
-| Cyclist1 | | | |
-| Cyclist2 | | | |
+| CAR2 | UWB: Pozyx                                 | -             | ranges wrt static and moving agents                               |
+| CAR2 | GNSS: 1 Topcon Hyper VR, 1 Novatel PwrPak7 | positions     | reference trajectory from GNSS and IMU integration and correction |
+| CAR2 | IMU: Epson G320 MEMS (built-in)            | inertial info | reference trajectory from GNSS and IMU integration and correction |
+| CAR2 | LiDAR: Velodyne VLP16                      | raw profiles  | raw profiles with timestamp                                       |
+| CAR2 | Camera: GoPro HERO5                        | video         | video                                                             |
+| CAR3 | UWB: Pozyx                                 | ranges        | ranges wrt static and moving agents                               |
+| CAR3 | GNSS: 1 Topcon Hyper VR, 1 Novatel PwrPak7 | positions     | reference trajectory from GNSS and IMU integration and correction |
+| CAR3 | IMU: Epson G320 MEMS (built-in)            | inertial info | reference trajectory from GNSS and IMU integration and correction |
+| CAR3 | LiDAR: Velodyne VLP16                      | raw profiles  | raw profiles with timestamp                                       |
+| CAR3 | Camera: GoPro HERO5                        | video         | video                                                             |
+| Pedestrian1 | GNSS: Topcon Hyper VR | positions | reference trajectory |
+| Pedestrian2 | GNSS: Topcon Hyper VR | positions | reference trajectory |
+| Cyclist1    | GNSS: Topcon Hyper VR | positions | reference trajectory |
+| Cyclist2    | GNSS: Topcon Hyper VR | positions | reference trajectory |
 | Static LiDAR | | | |
 
 _________________________________________________________________________
