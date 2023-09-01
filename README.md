@@ -15,16 +15,16 @@ _________________________________________________________________________
 In the following table, the collected and share data are listed (TO BE COMPLETED). 
 
 
-|  Static Infrastructure | Sensor  |  Collected Data | Shared Data |
+|  <p align="center"><strong> Static Infrastructure <p align="center"><strong> | <p align="center"><strong> Sensor <p align="center"><strong> | <p align="center"><strong> Collected Data <p align="center"><strong> | <p align="center"><strong> Shared Data <p align="center"><strong> |
 |---|---|---|---|
 |  | 12 UWB Pozyx  |  - | <a href="https://eostore.itc.utwente.nl:5001/sharing/1gJRLdQ71"></a>reference positions|
 |  | LiDAR: Velodyne VLP16 | raw profiles | <a href="https://eostore.itc.utwente.nl:5001/sharing/c4LlTkVjT"></a>raw profiles with timestamp|
-|  Agents | Onboard sensor  |  Collected Data | Shared Data |
+|  <p align="center"><strong> Agents <p align="center"><strong> | <p align="center"><strong> Onboard sensor <p align="center"><strong>  |  <p align="center"><strong> Collected Data <p align="center"><strong> | <p align="center"><strong> Shared Data <p align="center"><strong> |
 | UAS1 - DJI Phantom 4Pro RTK | UWB: Pozyx <br> embedded GNSS <br> embedded camera | ranges <br> positions <br> images | ranges wrt static and moving agents <br> reference trajectory <br> images |
-| UAS2 - DJI Phantom 4Pro | | | |
-| UAS3 - DJI Phantom 4Pro | | | |
-| UAS4 - DJI Matrice 210 | | | |
-| CAR0 - GPSVan | | | |
+| UAS2 - DJI Phantom 4Pro | UWB: Pozyx <br> GNSS: Emlid M2 <br> embedded camera | ranges <br> positions <br> images | ranges wrt static and moving agents <br> reference trajectory <br> images |
+| UAS3 - DJI Phantom 4Pro | UWB: Pozyx <br> GNSS: Emlid M2 <br> embedded camera | ranges <br> positions <br> images, videos | ranges wrt static and moving agents <br> reference trajectory <br> images, videos |
+| UAS4 - DJI Matrice 210 | UWB: Pozyx <br> embedded GNSS <br> Camera: DJI FC6310S | ranges <br> positions <br> images, videos | ranges wrt static and moving agents <br> reference trajectory <br> images, videos |
+| CAR0 - GPSVan | UWB: Pozyx <br> GNSS: Leica GS25, Septentrio PolRx5 <br> IMU: Honeywell H764G <br> LiDAR Velodyne VLP16 <br> Camera: Sony Alpha 6000 | ranges <br> positions <br> inertial info <br> raw profiles <br> video | ranges wrt static and moving agents <br> reference trajectory from GNSS and IMU integration and correction <br> raw profiles with timestamp <br> video |
 | CAR1 - Honda CRV | | | |
 | CAR2 - Honda Pilot | | | |
 | CAR3 - CyberCar | | | |
