@@ -6,14 +6,15 @@ GNSS allows positioning and navigation of ground and aerial platforms/agets almo
 But, despite developments in hardware technologies and Radio-Frequency (RF) signal processing, GNSS cannot be fully available or reliable in certain environments (e.g. dense forestry, tunnels, urban canyons, etc.) or when RF interference is present (e.g. spoofing or jamming).
 
 Therefore, alternative positioning approaches were studied, including collaborative navigation, where platforms navigating in close vicinity can share position and navigation information (vehicle-to-infrastructure - V2I and vehicle-to-vehicle - V2V communications) and a joint navigation solution can potentially provide better results for all platforms with respect to individual ones.
-<p><img src="contest.png"><p>
+
 The CONTEST dataset wants to provide multiple data streams to test <b>collaborative positioning</b> approaches, involving both terrestrial and aerial (Unmanned Aerial Systems / Vehicles) platforms, and using several sensors, such as Ultra-Wide Band (UWB) transceivers, cameras, LiDARs, GNSS. The CONTEST data can therefore support the development, testing and comparison of individual or integrated use of imaging data, LiDAR and UWB ranging for collaborative positioning and navigation purposes. This includes the possibility to execute and validate visual and LiDAR odometry or SLAM approaches, hybrid adjustment, UWB trilateration algorithms, etc. To ensure reliable validation results, accurate GNSS-based reference solutions are provided for all the platforms.
 
+<p><img src="contest.png"><p>
+  
 The CONTEST dataset is joint work bewtween the University of Florence (Italy), The Ohio State University (USA) and Bruno Kessler Foundation - FBK (Italy).
 _________________________________________________________________________
 
-In the following table, the collected and share data are listed (TO BE COMPLETED). 
-
+In the following table, the collected and share data are listed. 
 
 |  <p align="center"><strong> Static Infrastructure <p align="center"><strong> | <p align="center"><strong> Sensor <p align="center"><strong> | <p align="center"><strong> Collected Data <p align="center"><strong> | <p align="center"><strong> Shared Data <p align="center"><strong> |
 |---|---|---|---|
