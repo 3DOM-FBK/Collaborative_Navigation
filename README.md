@@ -20,6 +20,20 @@ In the following table, the collected and share data are listed (TO BE COMPLETED
 |  | 12 UWB Pozyx  |  - | <a href="https://eostore.itc.utwente.nl:5001/sharing/1gJRLdQ71"></a>reference positions|
 |  | LiDAR: Velodyne VLP16 | raw profiles | <a href="https://eostore.itc.utwente.nl:5001/sharing/c4LlTkVjT"></a>raw profiles with timestamp|
 
+|  Agents | Onboard sensor  |  Collected Data | Shared Data |
+| UAS1 - DJI Phantom 4Pro RTK | UWB: Pozyx <br> embedded GNSS <br> embedded camera | ranges <br> positions <br> images | ranges wrt static and moving agents <br> reference trajectory <br> images |
+| UAS2 - DJI Phantom 4Pro | | | |
+| UAS3 - DJI Phantom 4Pro | | | |
+| UAS4 - DJI Matrice 210 | | | |
+| CAR0 - GPSVan | | | |
+| CAR1 - Honda CRV | | | |
+| CAR2 - Honda Pilot | | | |
+| CAR3 - CyberCar | | | |
+| Pedestrian1 | | | |
+| Pedestrian2 | | | |
+| Cyclist1 | | | |
+| Cyclist2 | | | |
+| Static LiDAR | | | |
 
 _________________________________________________________________________
 ### Credits
