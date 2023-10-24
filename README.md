@@ -14,6 +14,11 @@ The CONTEST dataset wants to provide multiple data streams to test <b>collaborat
 The CONTEST dataset is joint work bewtween the University of Florence (Italy), The Ohio State University (USA) and Bruno Kessler Foundation - FBK (Italy).
 _________________________________________________________________________
 
+Related publications:
+- A. Masiero, L. Morelli, C. Toth, F. Remondino, 2023: Benchmarking Collaborative Poistioning and Navigation between ground and UAS Platform. Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., in press
+- A. Masiero, C. Toth, F. Remondino, 2023: <a href="https://ieeexplore.ieee.org/document/10140067">Vision and UWB-Based Collaborative Positioning Between Ground and UAS Platforms</a>. Proc. IEEE/ION Position, Location and Navigation Symposium (PLANS), DOI: 10.1109/PLANS53410.2023.10140067
+_________________________________________________________________________
+
 Link to dataset grouped by Agent:
 
 | **Agent** | **Link** | **Agent** | **Link** | **Agent** | **Link** |
@@ -26,7 +31,7 @@ Link to dataset grouped by Agent:
 
 For Static LiDAR: [Link](https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared%20Documents/Collaborative/Static%20LiDAR?csf=1&web=1&e=eaOeiJ) 
 
-In the following table, the collected and share data are listed. 
+All collected data are listed below and they will be shared ASAP. 
 
 |  <p align="center"><strong> Static Infrastructure <p align="center"><strong> | <p align="center"><strong> Sensor <p align="center"><strong> | <p align="center"><strong> Collected Data <p align="center"><strong> | <p align="center"><strong> Shared Data <p align="center"><strong> |
 |---|---|---|---|
