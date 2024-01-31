@@ -17,6 +17,7 @@ _________________________________________________________________________
 Related publications:
 - A. Masiero, L. Morelli, C. Toth, F. Remondino, 2023: <a href="https://isprs-archives.copernicus.org/articles/XLVIII-1-W2-2023/1127/2023/" target=page>Benchmarking Collaborative Poistioning and Navigation between ground and UAS Platform</a>. Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-1/W2-2023, 1127–1133
 - A. Masiero, C. Toth, F. Remondino, 2023: <a href="https://ieeexplore.ieee.org/document/10140067">Vision and UWB-Based Collaborative Positioning Between Ground and UAS Platforms</a>. Proc. IEEE/ION Position, Location and Navigation Symposium (PLANS), DOI: 10.1109/PLANS53410.2023.10140067
+If you use this dataset for your research, please cite the data source (https://github.com/3DOM-FBK/Collaborative_Navigation)
 _________________________________________________________________________
 
 Link to dataset grouped by Agent:
@@ -31,7 +32,7 @@ Link to dataset grouped by Agent:
 
 For Static LiDAR: [Link](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EnHeD0qNdZJOt4W0HbCcp6IBGSXseBlcqbYpjgZLnZyMzA?e=GNOIQf) 
 
-All collected data are listed below and they will be shared ASAP. 
+All collected data are listed below. 
 
 |  <p align="center"><strong> Static Infrastructure <p align="center"><strong> | <p align="center"><strong> Sensor <p align="center"><strong> | <p align="center"><strong> Collected Data <p align="center"><strong> | <p align="center"><strong> Shared Data <p align="center"><strong> |
 |---|---|---|---|
@@ -74,12 +75,6 @@ All collected data are listed below and they will be shared ASAP.
 | Cyclist1    | GNSS: Topcon Hyper VR | positions | reference trajectory |
 | Cyclist2    | GNSS: Topcon Hyper VR | positions | reference trajectory |
 | Static LiDAR | | | |
-
-
-_________________________________________________________________________
-### Credits
-The CONTEST dataset is publicly available for research purposes.<br>
-If you use this dataset for your research, please cite the data source (https://github.com/3DOM-FBK/Collaborative_Navigation). A scientific pubblication is in preparation. 
 
 _________________________________________________________________________
 ### License
