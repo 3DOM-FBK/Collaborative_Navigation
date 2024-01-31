@@ -29,7 +29,7 @@ Link to dataset grouped by Agent:
 | UAS4 | [Link](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EkGogSSiSo1BtPScfJf-GAQBsV318tE5iZ1oe_NStMBRmw?e=S5dZVT) | CAR3 | [Link](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Eisfrvs6VGpLlBnw3DEblRgB-tIEeUfgbMgkIPJDJ8vu-w?e=lhGAOt) | Cyclist2 | [Link](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EgmKfDmWCpNIgmXuEtTLyjoBcw8I1cu85LjrXsHSN3_saw?e=uaFvqS) |
 
 
-For Static LiDAR: [Link](https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared%20Documents/Collaborative/Static%20LiDAR?csf=1&web=1&e=eaOeiJ) 
+For Static LiDAR: [Link](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EnHeD0qNdZJOt4W0HbCcp6IBGSXseBlcqbYpjgZLnZyMzA?e=GNOIQf) 
 
 All collected data are listed below and they will be shared ASAP. 
 
