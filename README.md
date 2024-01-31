@@ -17,21 +17,23 @@ _________________________________________________________________________
 Related publications:
 - A. Masiero, L. Morelli, C. Toth, F. Remondino, 2023: <a href="https://isprs-archives.copernicus.org/articles/XLVIII-1-W2-2023/1127/2023/" target=page>Benchmarking Collaborative Poistioning and Navigation between ground and UAS Platform</a>. Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-1/W2-2023, 1127–1133
 - A. Masiero, C. Toth, F. Remondino, 2023: <a href="https://ieeexplore.ieee.org/document/10140067">Vision and UWB-Based Collaborative Positioning Between Ground and UAS Platforms</a>. Proc. IEEE/ION Position, Location and Navigation Symposium (PLANS), DOI: 10.1109/PLANS53410.2023.10140067
+
+If you use this dataset for your research, please cite the data source (https://github.com/3DOM-FBK/Collaborative_Navigation).
 _________________________________________________________________________
 
 Link to dataset grouped by Agent:
 
 | **Agent** | **Link** | **Agent** | **Link** | **Agent** | **Link** |
 | --------------- | -------- | --------------- | -------- | --------------- | -------- |
-| UAS1 | [Link](https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared%20Documents/Collaborative/UAS1?csf=1&web=1&e=d2RMMu) | CAR0 | [Link](https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared%20Documents/Collaborative/CAR0?csf=1&web=1&e=ArM07D) | Pedestrian1 | [Link](https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared%20Documents/Collaborative/Pedestrian1?csf=1&web=1&e=DXtRXo) |
-| UAS2 | [Link](https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared%20Documents/Collaborative/UAS2?csf=1&web=1&e=reYbZ4) | CAR1 | [Link](https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared%20Documents/Collaborative/CAR1?csf=1&web=1&e=PxdeEq) | Pedestrian2 | [Link](https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared%20Documents/Collaborative/Pedestrian2?csf=1&web=1&e=gRrV70) |
-| UAS3 | [Link](https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared%20Documents/Collaborative/UAS3?csf=1&web=1&e=VYv6Ki) | CAR2 | [Link](https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared%20Documents/Collaborative/CAR2?csf=1&web=1&e=Dg74hk) | Cyclist1 | [Link](https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared%20Documents/Collaborative/Cyclist1?csf=1&web=1&e=ScoXF5) |
-| UAS4 | [Link](https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared%20Documents/Collaborative/UAS4?csf=1&web=1&e=WUYnmK) | CAR3 | [Link](https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared%20Documents/Collaborative/CAR3?csf=1&web=1&e=qrcpVF) | Cyclist2 | [Link](https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared%20Documents/Collaborative/Cyclist2?csf=1&web=1&e=6ohu0o) |
+| UAS1 | [Link](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EkGogSSiSo1BtPScfJf-GAQBsV318tE5iZ1oe_NStMBRmw?e=tEnrV2) | CAR0 | [Link](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EgV1D8rkMn9Gl_FUecWQDnQBEkOqpECnTk7c282ekVMDuQ?e=NfDsEo) | Pedestrian1 | [Link](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Eq5rdAjZeFJNlw3gGzykTgsBv4MnxIdgqC5xmGAadSXk_A?e=dcCQsi) |
+| UAS2 | [Link](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EoHNCDe9LwBPvj7jzsck0hUBgAbOGPxbPtgI1JiLzzlWyQ?e=QK8hD0) | CAR1 | [Link](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EsD3r3abP_RJs5L_lQLh8_YB283rTo44rnBwyNilOPlfqA?e=dS0udz) | Pedestrian2 | [Link](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Els2NT-hLShMorC27s2pxtkB5GWtwRGGlLc2X7pfCjNOKA?e=NZlFoU) |
+| UAS3 | [Link](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Eqa3DQB-Wf5Bh-qcJ0xTMtABsV_tB8wg4XMWPK4iDuqYdA?e=ZZdPV3) | CAR2 | [Link](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EkyXTTOPLLtKu6uaMfxUyFkBbnj4lRjxW0VM-JC2yCTdkw?e=xXT5x4) | Cyclist1 | [Link](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/ElqCWAY-G6lNkeXkFPcNYqwBIHsotf-due42mxTQ0fHfNA?e=MJxf6k) |
+| UAS4 | [Link](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EkGogSSiSo1BtPScfJf-GAQBsV318tE5iZ1oe_NStMBRmw?e=S5dZVT) | CAR3 | [Link](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Eisfrvs6VGpLlBnw3DEblRgB-tIEeUfgbMgkIPJDJ8vu-w?e=lhGAOt) | Cyclist2 | [Link](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EgmKfDmWCpNIgmXuEtTLyjoBcw8I1cu85LjrXsHSN3_saw?e=uaFvqS) |
 
 
-For Static LiDAR: [Link](https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared%20Documents/Collaborative/Static%20LiDAR?csf=1&web=1&e=eaOeiJ) 
+For Static LiDAR: [Link](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EnHeD0qNdZJOt4W0HbCcp6IBGSXseBlcqbYpjgZLnZyMzA?e=GNOIQf) 
 
-All collected data are listed below and they will be shared ASAP. 
+All collected data are listed below. 
 
 |  <p align="center"><strong> Static Infrastructure <p align="center"><strong> | <p align="center"><strong> Sensor <p align="center"><strong> | <p align="center"><strong> Collected Data <p align="center"><strong> | <p align="center"><strong> Shared Data <p align="center"><strong> |
 |---|---|---|---|
@@ -74,12 +76,6 @@ All collected data are listed below and they will be shared ASAP.
 | Cyclist1    | GNSS: Topcon Hyper VR | positions | reference trajectory |
 | Cyclist2    | GNSS: Topcon Hyper VR | positions | reference trajectory |
 | Static LiDAR | | | |
-
-
-_________________________________________________________________________
-### Credits
-The CONTEST dataset is publicly available for research purposes.<br>
-If you use this dataset for your research, please cite the data source (https://github.com/3DOM-FBK/Collaborative_Navigation). A scientific pubblication is in preparation. 
 
 _________________________________________________________________________
 ### License
