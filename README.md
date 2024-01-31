@@ -18,7 +18,7 @@ Related publications:
 - A. Masiero, L. Morelli, C. Toth, F. Remondino, 2023: <a href="https://isprs-archives.copernicus.org/articles/XLVIII-1-W2-2023/1127/2023/" target=page>Benchmarking Collaborative Poistioning and Navigation between ground and UAS Platform</a>. Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-1/W2-2023, 1127–1133
 - A. Masiero, C. Toth, F. Remondino, 2023: <a href="https://ieeexplore.ieee.org/document/10140067">Vision and UWB-Based Collaborative Positioning Between Ground and UAS Platforms</a>. Proc. IEEE/ION Position, Location and Navigation Symposium (PLANS), DOI: 10.1109/PLANS53410.2023.10140067
 
-If you use this dataset for your research, please cite the data source (https://github.com/3DOM-FBK/Collaborative_Navigation)
+If you use this dataset for your research, please cite the data source (https://github.com/3DOM-FBK/Collaborative_Navigation).
 _________________________________________________________________________
 
 Link to dataset grouped by Agent:
